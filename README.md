@@ -28,6 +28,10 @@ horizon-media-fr-child/
 └── functions.php    # Three-level style loading + SERP favicon
 ```
 
+## Live site
+
+[horizonsmedia.fr](https://horizonsmedia.fr)
+
 ---
 
 **Oriane Nyikeine** · [LinkedIn](https://www.linkedin.com/in/oriane-nyikeine) · [GitHub](https://github.com/oriane-nyikeine)
