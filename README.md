@@ -1,6 +1,6 @@
 # Horizon Media — Independent Media Platform
 
-WordPress media site covering news and editorial content.
+Media outlets covering AI and finance tend to speak to audiences who are already informed. Horizon was built from a desire to cover these subjects differently, to make them accessible to a wider readership. Because the complexity of these worlds often benefits those who produce it, and someone who truly understands what they are getting into makes better decisions.
 
 Co-founder of the project. I handled the full technical and design side: installation, configuration, theme, structure, optimisations. My partner was in charge of the editorial direction and content management.
 
